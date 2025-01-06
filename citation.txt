@@ -6,13 +6,3 @@
     title = "{Small Object Detection via Coarse-to-fine Proposal Generation and Imitation Learning}",
     year = "2023"
 }
-
-@article{SODA,
-    author = "Cheng, Gong and Yuan, Xiang and Yao, Xiwen and Yan, Kebing and Zeng, Qinghua and Xie, Xingxing and Han, Junwei",
-    journal = "IEEE Transactions on Pattern Analysis and Machine Intelligence",
-    number = "11",
-    pages = "13467-13488",
-    title = "Towards Large-Scale Small Object Detection: Survey and Benchmarks",
-    volume = "45",
-    year = "2023"
-}
